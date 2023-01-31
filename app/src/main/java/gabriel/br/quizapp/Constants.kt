@@ -10,38 +10,38 @@ object Constants {
         val questionsList = ArrayList<Question>()
 
         val que1 = Question(
-            1, "What country does this flag belong to?",
+            1, "A qual país essa bandeira pertence?",
             R.drawable.ic_flag_of_argentina,
-            "Argentina", "Australia",
-            "Armenia", "Austria",
+            "Argentina", "Austrália",
+            "Armênia", "Honduras",
             correctAnswer = 1
         )
         questionsList.add(que1)
 
         val que2 = Question(
-            2, "What country does this flag belong to?",
+            2, "A qual país essa bandeira pertence?",
             R.drawable.ic_flag_of_australia,
-            "Angola", "Austria",
-            "Australia", "Armenia", 3
+            "Angola", "Áustria",
+            "Austrália", "Armênia", 3
         )
 
         questionsList.add(que2)
 
 
         val que3 = Question(
-            3, "What country does this flag belong to?",
+            3, "A qual país essa bandeira pertence?",
             R.drawable.ic_flag_of_brazil,
-            "Belarus", "Belize",
-            "Brunei", "Brazil", 4
+            "Bielorrússia", "Belize",
+            "Brunei", "Brasil", 4
         )
 
         questionsList.add(que3)
 
 
         val que4 = Question(
-            4, "What country does this flag belong to?",
+            4, "A qual país essa bandeira pertence?",
             R.drawable.ic_flag_of_belgium,
-            "Bahamas", "Belgium",
+            "Bahamas", "Bélgica",
             "Barbados", "Belize", 2
         )
 
@@ -49,40 +49,40 @@ object Constants {
 
 
         val que5 = Question(
-            5, "What country does this flag belong to?",
+            5, "A qual país essa bandeira pertence?",
             R.drawable.ic_flag_of_germany,
-            "Germany", "Georgia",
-            "Greece", "none of these", 1
+            "Alemanha", "Holanda",
+            "Grécia", "Nenhuma das opções", 1
         )
 
         questionsList.add(que5)
 
 
         val que6 = Question(
-            6, "What country does this flag belong to?",
+            6, "A qual país essa bandeira pertence?",
             R.drawable.ic_flag_of_india,
-            "Ireland", "Iran",
-            "Hungary", "India", 4
+            "Irlanda", "Irã",
+            "Húngria", "Índia", 4
         )
 
         questionsList.add(que6)
 
 
         val que7 = Question(
-            7, "What country does this flag belong to?",
+            7, "A qual país essa bandeira pertence?",
             R.drawable.ic_flag_of_new_zealand,
-            "Australia", "New Zealand",
-            "Tuvalu", "United States of America", 2
+            "Australia", "Nova Zêlandia",
+            "Tuvalu", "Inglaterra", 2
         )
 
         questionsList.add(que7)
 
 
         val que8 = Question(
-            8, "What country does this flag belong to?",
+            8, "A qual país essa bandeira pertence?",
             R.drawable.ic_flag_of_kuwait,
-            "Kuwait", "Jordan",
-            "Sudan", "Palestine", 1
+            "Kuwait", "Jordânia",
+            "Sudão", "Egito", 1
         )
 
         questionsList.add(que8)
